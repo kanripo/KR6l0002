@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 阿毘達磨法蘊足論
+#+DATE: 2015-08-30 20:47:11.134327
+#+PROPERTY: JUAN 0
